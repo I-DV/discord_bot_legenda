@@ -1,0 +1,191 @@
+{
+  "Орк": {
+    "name": "Орк",
+    "id": "1",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725725259594,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725726459594
+  },
+  "Паук": {
+    "name": "Паук",
+    "id": "2",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725639552918,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725640752918
+  },
+  "Тритон": {
+    "name": "Тритон",
+    "id": "3",
+    "respawn_time": 1260000,
+    "random_time": null,
+    "last_respawn": 1725633296329,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725634556329
+  },
+  "Кобольд": {
+    "name": "Кобольд",
+    "id": "4",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725720791616,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725721991616
+  },
+  "Куру": {
+    "name": "Куру",
+    "id": "5",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725901897425,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725903097425
+  },
+  "Гарпия": {
+    "name": "Гарпия",
+    "id": "6",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725633295296,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725634495296
+  },
+  "Минотавр": {
+    "name": "Минотавр",
+    "id": "7",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725633127344,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725634327344
+  },
+  "Скелет": {
+    "name": "Скелет",
+    "id": "8",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725901896251,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725903096251
+  },
+  "Куролиск": {
+    "name": "Куролиск",
+    "id": "9",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725921619577,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725922819577
+  },
+  "Гигант": {
+    "name": "Гигант",
+    "id": "10",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725632836111,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725634036111
+  },
+  "Сирена": {
+    "name": "Сирена",
+    "id": "11",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725632673101,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725633873101
+  },
+  "Ракум": {
+    "name": "Ракум",
+    "id": "12",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725632707195,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725633907195
+  },
+  "Тролль": {
+    "name": "Тролль",
+    "id": "13",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725903966226,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725905166226
+  },
+  "Василиск": {
+    "name": "Василиск",
+    "id": "14",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725901895184,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725903095184
+  },
+  "Огр": {
+    "name": "Огр",
+    "id": "15",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725971953647,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725973153647
+  },
+  "Флинд": {
+    "name": "Флинд",
+    "id": "16",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725639552918,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725640752918
+  },
+  "Жук": {
+    "name": "Жук",
+    "id": "17",
+    "respawn_time": 1200000,
+    "random_time": null,
+    "last_respawn": 1725971930920,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725973130920
+  },
+  "Фурие": {
+    "name": "Фурие",
+    "id": "18",
+    "respawn_time": 21600000,
+    "random_time": null,
+    "last_respawn": 1725907846607,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1725929446607
+  },
+  "Байрон": {
+    "name": "Байрон",
+    "id": "19",
+    "respawn_time": 21600000,
+    "random_time": null,
+    "last_respawn": 1726005820641,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1726027420641
+  },
+  "ЧЗ": {
+    "name": "ЧЗ",
+    "id": "20",
+    "respawn_time": 21600000,
+    "random_time": null,
+    "last_respawn": 1725985474998,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1726007074998
+  },
+  "Роден": {
+    "name": "Роден",
+    "id": "21",
+    "respawn_time": 21600000,
+    "random_time": null,
+    "last_respawn": 1725992132236,
+    "recorded_by": "akast_iz_iolka",
+    "next_respawn": 1726013732236
+  }
+}
