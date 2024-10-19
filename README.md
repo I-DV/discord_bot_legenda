@@ -7,5 +7,5 @@
 LEGENDA_TOKEN={bot_token}
 GUILD_ID={guild_id}
 CHANNEL=бот
-TIMEZONE=Europe/Moscow
+TIMEZONE={timezone}
 ```
