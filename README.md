@@ -6,6 +6,6 @@
 ```
 LEGENDA_TOKEN={bot_token}
 GUILD_ID={guild_id}
-CHANNEL=бот
+CHANNEL={bot_channel}
 TIMEZONE={timezone}
 ```
